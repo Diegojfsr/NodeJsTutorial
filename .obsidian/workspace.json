@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "a8017cc2ee0e9476",
+    "type": "split",
+    "children": [
+      {
+        "id": "474a5c2b7a290eb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "935b1bc39feee2c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Aula 1 -  Fundamentos da tecnologia da informação.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 1 -  Fundamentos da tecnologia da informação"
+            }
+          },
+          {
+            "id": "a9aa1b3bba5ff031",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Aula 2 - Conceitos de ciência, tecnologia e inovação.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 2 - Conceitos de ciência, tecnologia e inovação"
+            }
+          },
+          {
+            "id": "1c9483ec3f0d1539",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Aula 3 - As tecnologias de informação e comunicação atual na sociedade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 3 - As tecnologias de informação e comunicação atual na sociedade"
+            }
+          },
+          {
+            "id": "264e13b9475fba41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95edef668b657176",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd926b8554709dde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b02efb55613b8a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "fcf5211b07f910d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "2546ad1fa6d4380f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306.5
+  },
+  "right": {
+    "id": "1b77f82fc4207f64",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed9588303afd4cca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a29bd78191eb249e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de README"
+            }
+          },
+          {
+            "id": "dbe9e1e4c0cb097a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React Hooks/1️⃣ Fundamentos dos Hooks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 1️⃣ Fundamentos dos Hooks"
+            }
+          },
+          {
+            "id": "433c1db50f655ade",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "8683bbb36e1857f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Criar nova base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "264e13b9475fba41",
+  "lastOpenFiles": [
+    "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Aula 4 - Inovação e tecnologia.md",
+    "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Aula 3 - As tecnologias de informação e comunicação atual na sociedade.md",
+    "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Aula 2 - Conceitos de ciência, tecnologia e inovação.md",
+    "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)/Aula 1 -  Fundamentos da tecnologia da informação.md",
+    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Aula1-Introdução ao curso de engenharia.md",
+    "ATIVIDADE EXTENSIONISTA (2026.MAR)/002-Investigação da comunidade.md",
+    "TECNOLOGIA DA INFORMAÇÃO - C1 (2026.ABR)",
+    "AMBIENTAÇÃO EAD (2026.FEV.MAR)",
+    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Conteúdo Complementar4-Engenharia, resolução de problemas.md",
+    "ATIVIDADE EXTENSIONISTA (2026.MAR)/001-Introdução ao projeto de extensão.md",
+    "ATIVIDADE EXTENSIONISTA (2026.MAR)",
+    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Conteúdo Complementar3-Engenharia, abordagem de problema.md",
+    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Conteúdo Complementar2-Administração eficaz do tempo.md",
+    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Conteúdo Complementar1-Áreas de atuação e mercado de trabalho.md",
+    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Aula3-Relações humanas, engenheiro na empresa..md",
+    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Aula4-Desenvolvimento profissional na engenharia.md",
+    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Avalie sua disciplina.md",
+    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Laboratórios Virtuais1-Processos Industriais e Gestão da Qualidade, Dinâmica Lean Manufacturing.md",
+    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)/Aula2-Ética, legislação e entidades na área de engenharia.md",
+    "DESAFIOS DA ENGENHARIA - B1 (2026.1.ONLINE)",
+    "Leitura e Produção de Textos/Unidade4.2-Os modos de organização do discurso tipos textuais.md",
+    "Leitura e Produção de Textos/Unidade4.3-Gêneros discursivos acadêmicos e científicos.md",
+    "Leitura e Produção de Textos/Unidade4.1-O texto como atividade de linguagem-interação.md",
+    "Leitura e Produção de Textos/Unidade3.3-A coesão textual mecanismos de referenciação.md",
+    "Leitura e Produção de Textos/Unidade3.2-Pontuação.md",
+    "Leitura e Produção de Textos/Unidade3.1-A construção do parágrafo padrão.md",
+    "Leitura e Produção de Textos/Unidade2.3-Estratégias de leitura - Texto e intertextualidade.md",
+    "Unidade2.2-Estratégias de leitura - texto e contexto.md",
+    "Leitura e Produção de Textos/Unidade2.2-Estratégias de leitura - texto e contexto.md",
+    "Leitura e Produção de Textos/Unidade2.1-Estratégias de leitura - leitura textual ou literal.md",
+    "Leitura e Produção de Textos",
+    "24.Node.js Zlib Complete Reference",
+    "23.Node.js VM Complete Reference",
+    "22.Node.js V8 Complete Reference",
+    "21.Node.js Utility Complete Reference",
+    "20.Node.js URL Complete Reference"
+  ]
+}
