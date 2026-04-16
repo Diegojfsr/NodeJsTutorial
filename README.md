@@ -166,22 +166,13 @@ Forte Suporte da Comunidade: Conta com uma comunidade independente que apoia seu
 
 
 ## Pré-requisitos 
-JavaScript 
-Desenvolvimento Web básico
+- JavaScript 
+- Desenvolvimento Web básico
 
-Instalação 
-Para começar a usar o Node.js, você precisa instalá-lo e configurá-lo em sua máquina. Instalação no Windows
-Instalação no Linux
-Instalação no macOS
-
-
-
-
-
-
-
-
-
+## Instalação 
+- Para começar a usar o Node.js, você precisa instalá-lo e configurá-lo em sua máquina. Instalação no Windows
+- Instalação no Linux
+- Instalação no macOS
 
 
 
