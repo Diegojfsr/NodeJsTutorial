@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Aula1-Introdução ao Node.js"
             }
+          },
+          {
+            "id": "7e0ce546ec56c018",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Módulo1-Introdução ao Node.js/Aula2-A importância do Node.js no desenvolvimento web moderno.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula2-A importância do Node.js no desenvolvimento web moderno"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Módulo1-Introdução ao Node.js/Aula1-Introdução ao Node.js.md",
+                "file": "Módulo1-Introdução ao Node.js/Aula2-A importância do Node.js no desenvolvimento web moderno.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Aula1-Introdução ao Node.js"
+              "title": "Sumário de Aula2-A importância do Node.js no desenvolvimento web moderno"
             }
           },
           {
@@ -167,8 +182,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "aaf43947a7929847",
+  "active": "7e0ce546ec56c018",
   "lastOpenFiles": [
+    "Módulo1-Introdução ao Node.js/Aula1-Introdução ao Node.js.md",
+    "Módulo1-Introdução ao Node.js/Aula2-A importância do Node.js no desenvolvimento web moderno.md",
     "Fundamentos Computacionais/Unidade4.3-Desafios éticos, sociais e de segurança da tecnologia de informação.md",
     "Fundamentos Computacionais/Pasted image 20260331195640.png",
     "Fundamentos Computacionais/Unidade4.2-Tecnologias de entrada, saída e armazenamento de dados II.md",
@@ -196,7 +213,6 @@
     "Leitura e Produção de Textos/Unidade2.1-Estratégias de leitura - leitura textual ou literal.md",
     "Leitura e Produção de Textos/Unidade1.3-Níveis de linguagem.md",
     "Leitura e Produção de Textos/Unidade1.2-O novo acordo ortográfico.md",
-    "Unidade2.3-Estratégias de leitura - Texto e intertextualidade.md",
     "Leitura e Produção de Textos",
     "24.Node.js Zlib Complete Reference",
     "23.Node.js VM Complete Reference",
