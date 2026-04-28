@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Módulo2-Começando, Compreenda os conceitos básicos do Node/Aula1-NPM (Gerenciador de Pacotes do Node.js).md",
+                "file": "Módulo3-Gerenciador de Pacotes do Node/Aula1-NPM (Gerenciador de Pacotes do Node.js).md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Módulo2-Começando, Compreenda os conceitos básicos do Node/Aula1-NPM (Gerenciador de Pacotes do Node.js).md",
+                "file": "Módulo3-Gerenciador de Pacotes do Node/Aula1-NPM (Gerenciador de Pacotes do Node.js).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -167,11 +167,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7af07ce087e55043",
+  "active": "1b02efb55613b8a3",
   "lastOpenFiles": [
     "Módulo1-Introdução ao Node.js/Aula3-Funcionamento do Node.js.md",
-    "Módulo2-Começando, Compreenda os conceitos básicos do Node/Aula1-NPM (Gerenciador de Pacotes do Node.js).md",
-    "Módulo2-Começando, Compreenda os conceitos básicos do Node",
+    "Módulo3-Gerenciador de Pacotes do Node/Aula1-NPM (Gerenciador de Pacotes do Node.js).md",
+    "Módulo3-Gerenciador de Pacotes do Node",
     "Módulo1-Introdução ao Node.js/Aula2-A importância do Node.js no desenvolvimento web moderno.md",
     "Módulo1-Introdução ao Node.js/Aula1-Introdução ao Node.js.md",
     "Fundamentos Computacionais/Unidade4.3-Desafios éticos, sociais e de segurança da tecnologia de informação.md",
