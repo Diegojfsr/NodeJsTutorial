@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Módulo3-Gerenciador de Pacotes do Node/Aula1-NPM (Gerenciador de Pacotes do Node.js).md",
+                "file": "Módulo2-Começando, conceitos básicos do Node/Aula1-Conceitos básicos de NodeJS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula1-NPM (Gerenciador de Pacotes do Node.js)"
+              "title": "Aula1-Conceitos básicos de NodeJS"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Módulo3-Gerenciador de Pacotes do Node/Aula1-NPM (Gerenciador de Pacotes do Node.js).md",
+                "file": "Módulo2-Começando, conceitos básicos do Node/Aula1-Conceitos básicos de NodeJS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Aula1-NPM (Gerenciador de Pacotes do Node.js)"
+              "title": "Sumário de Aula1-Conceitos básicos de NodeJS"
             }
           },
           {
@@ -167,13 +167,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1b02efb55613b8a3",
+  "active": "7af07ce087e55043",
   "lastOpenFiles": [
-    "Módulo1-Introdução ao Node.js/Aula3-Funcionamento do Node.js.md",
+    "Módulo1-Introdução ao Node.js/Aula1-Introdução ao Node.js.md",
+    "Módulo2-Começando, conceitos básicos do Node/Aula1-Conceitos básicos de NodeJS.md",
     "Módulo3-Gerenciador de Pacotes do Node/Aula1-NPM (Gerenciador de Pacotes do Node.js).md",
+    "Módulo2-Começando, conceitos básicos do Node",
+    "Módulo1-Introdução ao Node.js/Aula3-Funcionamento do Node.js.md",
     "Módulo3-Gerenciador de Pacotes do Node",
     "Módulo1-Introdução ao Node.js/Aula2-A importância do Node.js no desenvolvimento web moderno.md",
-    "Módulo1-Introdução ao Node.js/Aula1-Introdução ao Node.js.md",
     "Fundamentos Computacionais/Unidade4.3-Desafios éticos, sociais e de segurança da tecnologia de informação.md",
     "Fundamentos Computacionais/Pasted image 20260331195640.png",
     "Fundamentos Computacionais/Unidade4.2-Tecnologias de entrada, saída e armazenamento de dados II.md",
@@ -198,14 +200,12 @@
     "Leitura e Produção de Textos/Unidade2.3-Estratégias de leitura - Texto e intertextualidade.md",
     "Unidade2.2-Estratégias de leitura - texto e contexto.md",
     "Leitura e Produção de Textos/Unidade2.2-Estratégias de leitura - texto e contexto.md",
-    "Leitura e Produção de Textos/Unidade2.1-Estratégias de leitura - leitura textual ou literal.md",
     "Leitura e Produção de Textos",
     "24.Node.js Zlib Complete Reference",
     "23.Node.js VM Complete Reference",
     "22.Node.js V8 Complete Reference",
     "21.Node.js Utility Complete Reference",
     "20.Node.js URL Complete Reference",
-    "19.Node.js UDP-DataGram Complete Reference",
-    "18.Node.js TLS-SSL Complete Reference"
+    "19.Node.js UDP-DataGram Complete Reference"
   ]
 }
